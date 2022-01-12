@@ -1,15 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=453547&assignment_repo_type=GroupAssignmentRepo)
-# :wave: is216-project
+# :wave: Delivery Heroes
 
-## 🤓 IS216 - 27 - DELIVERYHEROES
-| Name        | SMU Email  Address |  
-| ----------- | -----------        |
-| Bryan Shing Wen Yan      | bryan.shing.2020@scis.smu.edu.sg |
-| Jann Chia Rui Qi   | jann.chia.2020@scis.smu.edu.sg |
-| Mukmin Pitoyo | mpitoyo.2020@scis.smu.edu.sg |
-| Wong Jing Yun | jy.wong.2020@scis.smu.edu.sg |
-| Yeo Jing Yi | jingyi.yeo.2020@scis.smu.edu.sg	|
-
+## Website Link: 
+https://awesome-thompson-e51b21.netlify.app/
 
 ## 🤓 Project Overview ##
 DeliveryHeroes is a web application built to serve all food delivery riders in Singapore. Ever since COVID-19 started, there has been a surge in demand for food deliveries due to the strict dine-in restrictions, and thus also a derived increase in demand for food delivery riders. 
